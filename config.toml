@@ -1,0 +1,6 @@
+[visualizer]
+path = "/path/to/plantuml"
+
+[repository]
+path = "/path/to/your/repository"
+since = "2023-01-01"
