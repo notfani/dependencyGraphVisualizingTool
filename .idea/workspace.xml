@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c13849f7-4e21-48c9-9364-044170218204" name="Changes" comment="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;notfani&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/notfani/dependency_graph_visualizing_tool.git&quot;,
+    &quot;accountId&quot;: &quot;0fe69726-2169-4ee1-b113-ccf084e5b571&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2p4n65odXwT9hFMlNoBK5TJKxxo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging master",
+    "last_opened_file_path": "C:/Users/Богдан/PycharmProjects/config_control_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Богдан\PycharmProjects\PythonProject1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13849f7-4e21-48c9-9364-044170218204" name="Changes" comment="" />
+      <created>1732034037810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732034037810</updated>
+      <workItem from="1732034039565" duration="149000" />
+      <workItem from="1732034217070" duration="1133000" />
+      <workItem from="1732035500817" duration="2000" />
+      <workItem from="1732035566028" duration="129000" />
+      <workItem from="1732202361865" duration="593000" />
+      <workItem from="1732202967025" duration="1042000" />
+      <workItem from="1732206262435" duration="1033000" />
+      <workItem from="1732372408083" duration="4000" />
+      <workItem from="1732737192862" duration="8000" />
+      <workItem from="1732804287343" duration="1621000" />
+      <workItem from="1733395974534" duration="2174000" />
+      <workItem from="1733411509712" duration="4073000" />
+      <workItem from="1734017901241" duration="433000" />
+      <workItem from="1734559222286" duration="5244000" />
+    </task>
+    <task id="LOCAL-00001" summary="ver 0.1.0 start version">
+      <option name="closed" value="true" />
+      <created>1732034814280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732034814280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ver 0.1.1 git ignore changed">
+      <option name="closed" value="true" />
+      <created>1732035098657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732035098657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ver 0.1.1 git ignore changed">
+      <option name="closed" value="true" />
+      <created>1732035329562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732035329562</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program">
+      <option name="closed" value="true" />
+      <created>1734564440490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734564440490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ver 0.1.0 start version" />
+    <MESSAGE value="ver 0.1.1 git ignore changed" />
+    <MESSAGE value="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program" />
+  </component>
+</project>
