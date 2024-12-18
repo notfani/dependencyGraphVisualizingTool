@@ -1,6 +1,4 @@
-[visualizer]
-path = "/path/to/plantuml"
-
-[repository]
-path = "/path/to/your/repository"
-since = "2023-01-01"
+[general]
+plantuml_path = "plantuml.jar"        # Полный путь до plantuml.jar
+repository_path = "C:/Users/Богдан/GitHub/BananaNinja_Website"       # Путь до анализируемого репозитория
+since_date = "2024-01-01"                       # Дата в формате YYYY-MM-DD

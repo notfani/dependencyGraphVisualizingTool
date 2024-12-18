@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/config_control_2.iml" filepath="$PROJECT_DIR$/.idea/config_control_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dependency_graph_visualizing_tool.iml" filepath="$PROJECT_DIR$/.idea/dependency_graph_visualizing_tool.iml" />
     </modules>
   </component>
 </project>
