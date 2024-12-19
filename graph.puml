@@ -1,0 +1,4 @@
+@startuml
+"abcdef1234567890" --> "34567890abcdef"
+"34567890abcdef" --> "567890abcdef"
+@enduml
