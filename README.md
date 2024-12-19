@@ -68,11 +68,8 @@
 Пример PlantUML-файла в проекте:
 ```plantuml
 @startuml
-"abcdef1234567890"
 "abcdef1234567890" --> "34567890abcdef"
-"34567890abcdef"
 "34567890abcdef" --> "567890abcdef"
-"567890abcdef"
 @enduml
 ```
 
