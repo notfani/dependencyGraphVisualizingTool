@@ -87,6 +87,7 @@ abcdef1234567890 ---> 34567890abcdef ---> 567890abcdef
 ```bash
 python -m unittest test_dependency_visualizer.py
 ```
+[README.md](graph.png)
 
 ## Лицензия
 
