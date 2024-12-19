@@ -137,7 +137,7 @@ def build_plantuml_graph(commits, output_puml_path="graph.puml", output_image_pa
     for commit in commits:
         for parent in commit["parents"]:
             graph += f'"{parent}" --> "{commit["hash"]}"\n'
-        graph += f'"{commit["hash"]}"\n'
+        #graph += f'"{commit["hash"]}"\n'
     graph += "@enduml\n"
 
     # Сохранение .puml файла

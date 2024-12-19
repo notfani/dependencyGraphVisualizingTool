@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c13849f7-4e21-48c9-9364-044170218204" name="Changes" comment="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program" />
+    <list default="true" id="c13849f7-4e21-48c9-9364-044170218204" name="Changes" comment="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency_visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/dependency_visualizer.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +48,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.python -m unittest test_dependency_visualizer.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Богдан/PycharmProjects/config_control_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,6 +66,36 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Богдан\PycharmProjects\PythonProject1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="python -m unittest test_dependency_visualizer.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dependency_graph_visualizing_tool" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="unittest" />
+      <option name="PARAMETERS" value="test_dependency_visualizer.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.python -m unittest test_dependency_visualizer.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -92,7 +126,9 @@
       <workItem from="1733395974534" duration="2174000" />
       <workItem from="1733411509712" duration="4073000" />
       <workItem from="1734017901241" duration="433000" />
-      <workItem from="1734559222286" duration="5244000" />
+      <workItem from="1734559222286" duration="5530000" />
+      <workItem from="1734607602480" duration="32000" />
+      <workItem from="1734620605984" duration="901000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.1.0 start version">
       <option name="closed" value="true" />
@@ -126,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734564440490</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program">
+      <option name="closed" value="true" />
+      <created>1734564673860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734564673860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,5 +181,8 @@
     <MESSAGE value="ver 0.1.1 git ignore changed" />
     <MESSAGE value="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program" />
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.0&#10;the logic of the entire program has been changed, and the readme file has also been updated for the new program" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dependency_graph_visualizing_tool$python__m_unittest_test_dependency_visualizer_py.coverage" NAME="python -m unittest test_dependency_visualizer.py Coverage Results" MODIFIED="1734621494847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
