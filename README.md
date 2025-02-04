@@ -85,7 +85,3 @@ abcdef1234567890 ---> 34567890abcdef ---> 567890abcdef
 python -m unittest test_dependency_visualizer.py
 ```
 ![graph](graph.png)
-
-## Лицензия
-
-Данный проект распространяется под лицензией [MIT License](LICENSE).
